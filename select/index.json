@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ハニィラヴ",
+  "base_artist": "前髪ぱっつん少年",
+  "createdAt": "2026-02-14T08:58:27.046022Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハニィラヴ",
+      "artist": "前髪ぱっつん少年",
+      "has_synced": false,
+      "path": "select/pl_01_ハニィラヴ_前髪ぱっつん少年.txt"
+    }
+  ]
+}
